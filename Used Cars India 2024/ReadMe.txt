@@ -1,4 +1,4 @@
-This folder contains the analysis of used cars in India and how various factors affect the price of pre-owned cars. 
+This folder contains the analysis and prediction of used cars in India and how various factors affect the price of pre-owned cars. 
 Dataset taken from: https://www.kaggle.com/datasets/mrmars1010/cars-india-pre-owned?select=pre-owned+cars.csv
 
 It has in-depth understanding:
@@ -22,3 +22,5 @@ It has in-depth understanding:
     4.2) Z-score
     4.3) Box Plots
     4.4) IQR
+
+5) Predictions
